@@ -1,0 +1,72 @@
+BODY {
+  min-height: 100%;
+  margin: 0;
+
+  @include background-retina(
+  'website/components/head/stars-large.png',
+  'website/components/head/stars-large.png',
+  $bg-size: auto
+  );
+
+  background-attachment: fixed;
+}
+
+HTML {
+  -webkit-font-variant-ligatures: no-common-ligatures;
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  line-height: $line-height;
+
+  height: 100%;
+
+  color: color(text);
+  background: #331133;
+  background: linear-gradient(to bottom, #331133 0%, #222255 60%, #000022 100%);
+  background-attachment: fixed;
+
+  direction: ltr;
+}
+
+A {
+
+  color: color(link);
+
+  &:hover {
+    color: color(link, hover);
+  }
+}
+
+IMG {
+  display: inline-block;
+
+  max-width: 100%;
+  height: auto;
+
+  vertical-align: middle;
+}
+
+IMG[width],
+IMG[heigth] {
+  max-width: none;
+}
+
+INPUT {
+  &::-ms-clear {
+    display: none;
+  }
+
+  &::-ms-reveal {
+    display: none;
+  }
+}
+
+a > svg {
+  pointer-events: none;
+}
+
+HR {
+  margin-bottom: 8px;
+  border: 1px solid #ccc;
+  border-width: 0 0 1px;
+  background: none;
+}

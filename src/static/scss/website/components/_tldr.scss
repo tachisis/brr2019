@@ -1,0 +1,15 @@
+.tldr {
+  @include bp(huge) {
+    font-size: 16px;
+  }
+
+  font-size: 14px;
+
+  margin: 0;
+  padding: 0;
+  LI {
+    margin-bottom: 8px;
+
+    list-style-type: none;
+  }
+}

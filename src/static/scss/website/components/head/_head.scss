@@ -1,0 +1,162 @@
+.head {
+  position: relative;
+
+  height: 26vh;
+  max-height: 480px;
+
+  // background: #331133;
+  // background: linear-gradient(to bottom, #331133 0%, #222255 60%, #000022 100%);
+  // background-attachment: fixed;
+
+  .is-main & {
+    @include bp(wide) {
+      height: 60vh;
+    }
+
+    height: 40vh;
+  }
+}
+
+.head__layers {
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+}
+
+.head__layer {
+  position: absolute;
+}
+
+.head__layer--stars {
+  @include background-retina(
+  'website/components/head/stars-large.png',
+  'website/components/head/stars-large.png',
+  $bg-size: auto
+  );
+
+  width: 100%;
+  height: 100%;
+
+  background-position: top left;
+}
+
+.head__layer--stars2 {
+  @include background-retina(
+  'website/components/head/stars-large.png',
+  'website/components/head/stars-large.png',
+  $bg-size: auto
+  );
+
+  width: 100%;
+  height: 100%;
+
+  background-position: bottom right;
+}
+
+.head__layer--mountains {
+  @include background-retina(
+  'website/components/head/mountains.png',
+  'website/components/head/mountains@2x.png',
+  $bg-size: auto
+  );
+
+  width: 100%;
+  height: 100%;
+
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+}
+
+.head__layer--ships-1 {
+  @include background-retina(
+  'website/components/head/ships-1.png',
+  'website/components/head/ships-1@2x.png',
+  $bg-size: contain
+  );
+
+  top: 70%;
+  right: 30%;
+
+  background-repeat: no-repeat;
+
+  width: 100px;
+  height: 100px;
+}
+
+.head__layer--ships-2 {
+  @include background-retina(
+  'website/components/head/ships-2.png',
+  'website/components/head/ships-2@2x.png',
+  $bg-size: contain
+  );
+
+  top: 10%;
+  right: 30%;
+
+  background-repeat: no-repeat;
+
+  width: 100px;
+  height: 100px;
+}
+
+.head__layer--ships-3 {
+  @include background-retina(
+  'website/components/head/ships-3.png',
+  'website/components/head/ships-3@2x.png',
+  $bg-size: contain
+  );
+
+  top: 70%;
+  left: 26%;
+
+  background-repeat: no-repeat;
+
+  width: 100px;
+  height: 100px;
+}
+
+.head__layer--ships-4 {
+  @include background-retina(
+  'website/components/head/ships-4.png',
+  'website/components/head/ships-4@2x.png',
+  $bg-size: contain
+  );
+
+  top: 12%;
+  left: 26%;
+
+  background-repeat: no-repeat;
+
+  width: 120px;
+  height: 120px;
+}
+
+.head__layer--station {
+  @include background-retina(
+  'website/components/head/station.png',
+  'website/components/head/station@2x.png',
+  $bg-size: contain
+  );
+
+  width: 380px;
+  height: 340px;
+
+  background-repeat: no-repeat;
+
+  top: 9%;
+  left: 50%;
+
+  margin-left: -217px;
+
+  // animation: stationRotate 15s linear infinite;
+}
+
+@keyframes stationRotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

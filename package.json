@@ -1,0 +1,51 @@
+{
+  "name": "GulpFrontendDev",
+  "version": "1.0.0",
+  "author": "Denis Borovikov",
+  "private": true,
+  "scripts": {
+    "default": "gulp default",
+    "sprites": "gulp sprites",
+    "svg": "gulp svg",
+    "html": "gulp html",
+    "all": "gulp all",
+    "images": "gulp images",
+    "lint": "gulp lint",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.5.0",
+    "browser-sync": "^2.18.12",
+    "chalk": "^2.0.1",
+    "css-mqpacker": "^6.0.1",
+    "extend": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-css-flipper": "^1.0.2",
+    "gulp-file-include": "^2.0.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-html-i18n": "^0.12.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sass-bulk-import": "^1.0.1",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-split-locales": "git://github.com/denisborovikov/gulp-split-locales.git",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.1.0",
+    "gulp.spritesmith": "^6.9.0",
+    "merge-stream": "^1.0.1",
+    "postcss-assets": "^5.0.0",
+    "run-sequence": "^2.0.0",
+    "vinyl-buffer": "^1.0.1",
+    "yargs": "^11.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "IE 10"
+  ]
+}

@@ -1,0 +1,36 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js"></script>
+<script>
+  var layers = [],
+    layerElements = document.getElementsByClassName('js-layer'),
+    _scrollY = window.scrollY;
+
+  function init() {
+    for (var i = 0; i < layerElements.length; i += 1) {
+      var el = layerElements[i];
+      var offset = layerElements[i].dataset.offset;
+      layers.push({el: el, y: 0, offset: offset});
+    }
+
+    window.addEventListener('scroll', handle_scroll);
+    requestAnimationFrame(animate);
+  }
+
+  function handle_scroll(e) {
+    _scrollY = window.scrollY;
+  }
+
+  function animate() {
+    for (var i = 0; i < layers.length; i += 1) {
+      var oldY = layers[i].y;
+      layers[i].y = _scrollY * layers[i].offset;
+
+      if (oldY !== layers[i].y) {
+        layers[i].el.style.transform = 'translateY(' + layers[i].y + 'px)';
+      }
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  init();
+</script>

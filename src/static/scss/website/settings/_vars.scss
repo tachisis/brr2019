@@ -1,0 +1,57 @@
+//
+// Variables
+// -------------------------
+$foot-height: 260px;
+
+
+// Global values
+// -------------------------
+$images-dir: 'i/dest/';     // Used by background-retina mixin
+
+
+//
+// Responsitive layout
+// -------------------------
+$breakpoints: (
+  'small' : 0,
+  'med' : 480px,
+  'large' : 768px,
+  'wide' : 960px,
+  'huge' : 1280px,
+  'mega' : 1500px
+);
+
+// Breackpoint for screen viewport up to 738px (like macbook air 13")
+$macbook13: height 570px 738px;
+
+$mobile-portrait: height 0 460px;
+
+// Colors
+// -------------------------
+
+$colors: (
+  layout: (
+    base: #000022,
+    block: #ee99ee
+  ),
+  text: (
+    base: #000022,
+    light: #333
+  ),
+  link: (
+    base: #bb3377,
+    hover: lighten(#bb3377, 10%),
+    top: #d4d5d9,
+  ),
+);
+
+
+// Typography
+// -------------------------
+
+$font-family-base: Tahoma, Helvetica, Arial, sans-serif;
+$font-family-base-caption: 'Neucha', Helvetica, Arial, sans-serif;
+$font-family-serif: Palatino, 'Times New Roman', Times, Baskerville, Georgia, serif;
+$font-family-serif-caption: 'Times New Roman', Times, Baskerville, Georgia, serif;
+$font-size-base: 16px;
+$line-height: 1.5;

@@ -1,0 +1,32 @@
+.social {
+  @include bp(wide) {
+    left: 32px;
+    top: -32px;
+  }
+
+  position: absolute;
+  top: -44px;
+  left: 16px;
+}
+
+.social__item {
+  @include bp(wide) {
+    display: inline-block;
+    padding-bottom: 0;
+  }
+
+  display: block;
+  padding-bottom: 4px;
+  font-weight: bold;
+  line-height: 1;
+
+  margin-right: 12px;
+
+  vertical-align: middle;
+  text-decoration: none;
+
+  color: color(link, top);
+  &:hover {
+    color: lighten(color(link, top), 15%);
+  }
+}

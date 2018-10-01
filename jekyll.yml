@@ -1,0 +1,7 @@
+title: Barrayar2019
+encoding: utf-8
+
+exclude: [node_modules, package.json, npm-debug.log, Gruntfile.js, static/scss, gulpfile.js, gulp-config.js, gulp-config-local.js, makefile, gulp]
+
+source: src
+destination: dest

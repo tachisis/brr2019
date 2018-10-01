@@ -1,0 +1,84 @@
+.btn {
+  font-size: 16px;
+
+  padding: 10px 20px;
+
+  transition: background .3s;
+
+  color: #fff;
+  border: 0;
+  border-radius: 2px;
+  background: color(link);
+
+  &:hover {
+    background-color: color(link, hover);
+    text-decoration: none;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &._loading {
+    @extend %loading;
+  }
+
+  &[disabled],
+  &[disabled]:hover {
+    font-weight: normal;
+
+    background-color: color(link);
+  }
+
+  &._default {
+    color: #666;
+    background: #f0f0f0;
+
+    &:hover {
+      background-color: darken(#f0f0f0, 10%);
+    }
+  }
+
+  &._green {
+    color: #fff;
+    background: #00a651;
+
+    &:hover {
+      background-color: lighten(#00a651, 5%);
+    }
+  }
+
+  &._facebook {
+    color: #fff;
+    background: #3a5a98;
+
+    &:hover {
+      background-color: lighten(#3a5a98, 5%);
+    }
+  }
+
+  &._turquoise {
+    color: #fff;
+    background: #00a89c;
+
+    &:hover {
+      background-color: lighten(#00a89c, 5%);
+    }
+  }
+}
+
+%loading {
+  animation: btn-loading 2s linear infinite;
+
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-size: 42px 42px;
+}
+
+@keyframes btn-loading {
+  0% {
+    background-position: 42px 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}

@@ -1,0 +1,119 @@
+// Use a single or combination of the available classes for toggling
+// content across viewport breakpoints.
+// Breakpoints:
+// - small (mobiles portrait and landscape) < 768px
+// - large (tablets) < 960px
+// - wide (desktop) < 1500px
+// - mega (desktop widescreen) >= 1500px
+// .u-visible-* classes for each breakpoint come in three variations,
+// one for each CSS display property value (block, inline, inline-block).
+.u-hidden-small {
+  @include bp(small large) {
+    display: none !important;
+  }
+}
+
+.u-hidden-large {
+  @include bp(large wide) {
+    display: none !important;
+  }
+}
+
+.u-hidden-wide {
+  @include bp(wide mega) {
+    display: none !important;
+  }
+}
+
+.u-hidden-mega {
+  @include bp(mega) {
+    display: none !important;
+  }
+}
+
+.u-visible-small-block,
+.u-visible-small-inline,
+.u-visible-small-inline-block,
+.u-visible-large-block,
+.u-visible-large-inline,
+.u-visible-large-inline-block,
+.u-visible-wide-block,
+.u-visible-wide-inline,
+.u-visible-wide-inline-block,
+.u-visible-mega-block,
+.u-visible-mega-inline,
+.u-visible-mega-inline-block {
+  display: none !important;
+}
+
+.u-visible-small-block {
+  @include bp(small large) {
+    display: block !important;
+  }
+}
+
+.u-visible-small-inline {
+  @include bp(small large) {
+    display: inline !important;
+  }
+}
+
+.u-visible-small-inline-block {
+  @include bp(small large) {
+    display: inline-block !important;
+  }
+}
+
+.u-visible-large-block {
+  @include bp(large wide) {
+    display: block !important;
+  }
+}
+
+.u-visible-large-inline {
+  @include bp(large wide) {
+    display: inline !important;
+  }
+}
+
+.u-visible-large-inline-block {
+  @include bp(large wide) {
+    display: inline-block !important;
+  }
+}
+
+.u-visible-wide-block {
+  @include bp(wide mega) {
+    display: block !important;
+  }
+}
+
+.u-visible-wide-inline {
+  @include bp(wide mega) {
+    display: inline !important;
+  }
+}
+
+.u-visible-wide-inline-block {
+  @include bp(wide mega) {
+    display: inline-block !important;
+  }
+}
+
+.u-visible-mega-block {
+  @include bp(mega) {
+    display: block !important;
+  }
+}
+
+.u-visible-mega-inline {
+  @include bp(mega) {
+    display: inline !important;
+  }
+}
+
+.u-visible-mega-inline-block {
+  @include bp(mega) {
+    display: inline-block !important;
+  }
+}
