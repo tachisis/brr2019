@@ -2,7 +2,7 @@
   @include bp(wide) {
     position: absolute;
     top: -32px;
-    left: 30%;
+    left: 34%;
 
     margin-bottom: 0;
   }
@@ -12,8 +12,6 @@
 
 .nav__item {
   @include bp(wide) {
-    font-size: 16px;
-
     margin-right: 12px;
 
     color: color(link, top);
@@ -22,9 +20,10 @@
     }
   }
 
-  font-size: 15px;
+  font-size: 18px;
   font-weight: bold;
   line-height: 1;
+  font-family: $font-family-base-caption;
 
   display: inline-block;
 

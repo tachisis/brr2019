@@ -7,3 +7,29 @@
     }
   }
 }
+
+.announce__briefly {
+  @include bp(large) {
+    float: right;
+    margin: 0 0 20px 28px;
+    border: 1px dashed color(link, top);
+    padding: 20px;
+  }
+
+  UL {
+    padding: 0;
+  }
+
+  LI {
+    font-size: 14px;
+    list-style: none;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  H2 {
+    margin: 0 0 8px !important;
+  }
+}

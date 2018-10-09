@@ -54,21 +54,11 @@
   background-position: bottom right;
 }
 
-.head__layer--mountains {
-  @include background-retina(
-  'website/components/head/mountains.png',
-  'website/components/head/mountains@2x.png',
-  $bg-size: auto
-  );
-
-  width: 100%;
-  height: 100%;
-
-  background-repeat: no-repeat;
-  background-position: 50% 100%;
-}
-
 .head__layer--ships-1 {
+  @include bp(small wide) {
+    display: none;
+  }
+
   @include background-retina(
   'website/components/head/ships-1.png',
   'website/components/head/ships-1@2x.png',
@@ -85,6 +75,12 @@
 }
 
 .head__layer--ships-2 {
+  @include bp(small wide) {
+    width: 150px;
+    height: 150px;
+    z-index: 10;
+  }
+
   @include background-retina(
   'website/components/head/ships-2.png',
   'website/components/head/ships-2@2x.png',
@@ -101,6 +97,10 @@
 }
 
 .head__layer--ships-3 {
+  @include bp(small wide) {
+    display: none;
+  }
+
   @include background-retina(
   'website/components/head/ships-3.png',
   'website/components/head/ships-3@2x.png',
@@ -117,6 +117,10 @@
 }
 
 .head__layer--ships-4 {
+  @include bp(small wide) {
+    display: none;
+  }
+
   @include background-retina(
   'website/components/head/ships-4.png',
   'website/components/head/ships-4@2x.png',
@@ -147,7 +151,7 @@
   top: 9%;
   left: 50%;
 
-  margin-left: -217px;
+  margin-left: -200px;
 
   // animation: stationRotate 15s linear infinite;
 }

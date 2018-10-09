@@ -10,7 +10,6 @@
   padding: 24px 16px 44px;
 
   background: rgba(255,255,255,.9);
-  H1,
   H2,
   H3 {
     line-height: 1.1;
@@ -18,10 +17,6 @@
     margin: 24px 0 8px;
 
     font-family: $font-family-base-caption;
-  }
-
-  H1 {
-    font-size: 32px;
   }
 
   H2 {
@@ -78,14 +73,17 @@
     right: 32px;
 
     text-shadow: none;
+
+    font-size: 22px;
   }
 
   font-weight: bold;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1;
+  font-family: $font-family-base-caption;
 
   position: absolute;
-  top: -32px;
+  top: -28px;
   right: 16px;
 
   margin: 0 !important;
