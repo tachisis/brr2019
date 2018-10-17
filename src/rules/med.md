@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Медицина — Барраяр. Время перемен
+title: Медицина — Барраяр. Опасная игра
 permalink: /rules/med/
 ---
 

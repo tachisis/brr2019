@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Правила — Барраяр. Время перемен
+title: Правила — Барраяр. Опасная игра
 permalink: /rules/
 ---
 

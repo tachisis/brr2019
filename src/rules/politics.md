@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Политика — Барраяр. Время перемен
+title: Политика — Барраяр. Опасная игра
 permalink: /rules/politics/
 ---
 

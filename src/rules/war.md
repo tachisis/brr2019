@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Боёвка — Барраяр. Время перемен
+title: Боёвка — Барраяр. Опасная игра
 permalink: /rules/war/
 ---
 
