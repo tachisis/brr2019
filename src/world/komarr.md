@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Комарра — Барраяр. Время перемен
+title: Комарра — Барраяр. Опасная игра
 permalink: /world/komarr/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Цетаганда — Барраяр. Время перемен
+title: Цетаганда — Барраяр. Опасная игра
 permalink: /world/ceta/
 ---
 
