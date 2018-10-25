@@ -10,6 +10,11 @@
   padding: 24px 16px 44px;
 
   background: rgba(255,255,255,.9);
+  H1 {
+    font-family: $font-family-base-caption;
+    margin: 0 0 8px;
+  }
+
   H2,
   H3 {
     line-height: 1.1;
@@ -91,6 +96,8 @@
   text-transform: uppercase;
 
   text-shadow: 0 0 5px rgba(0,0,0,.8);
+
+  color: color(link, top);
 }
 
 .content__title-link {
@@ -100,23 +107,6 @@
   &:hover {
     color: lighten(color(link, top), 15%);
   }
-}
-
-.content__title-main {
-  // font-size: 44px;
-
-  // display: block;
-
-  // margin-left: -2px;
-}
-
-.content__title-sub {
-  // font-size: 22px;
-  // line-height: .6;
-
-  // display: block;
-
-  // letter-spacing: 1px;
 }
 
 .content__cols {

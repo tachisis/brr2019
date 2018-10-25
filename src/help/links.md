@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ссылки — Барраяр. Время перемен
+title: Ссылки — Барраяр. Опасная игра
 permalink: /help/links/
 ---
 

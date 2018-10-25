@@ -324,6 +324,9 @@ HR {
   margin: auto;
   padding: 24px 16px 44px;
   background: rgba(255, 255, 255, 0.9); }
+  .content H1 {
+    font-family: "Neucha", Helvetica, Arial, sans-serif;
+    margin: 0 0 8px; }
   .content H2,
   .content H3 {
     line-height: 1.1;
@@ -363,7 +366,8 @@ HR {
   right: 16px;
   margin: 0 !important;
   text-transform: uppercase;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8); }
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+  color: #d4d5d9; }
 
 .content__title-link {
   text-decoration: none;
@@ -421,12 +425,11 @@ HR {
     list-style-type: none; }
 
 .wrap {
-  padding: 32px 0 0;
   min-height: 100vh; }
 
 .head {
   position: relative;
-  height: 26vh;
+  height: 28vh;
   max-height: 480px; }
   .is-main .head {
     height: 40vh; }
@@ -495,9 +498,11 @@ HR {
   width: 380px;
   height: 340px;
   background-repeat: no-repeat;
-  top: 9%;
+  top: -30%;
   left: 50%;
   margin-left: -200px; }
+  .is-main .head__layer--station {
+    top: 9%; }
 
 @-webkit-keyframes stationRotate {
   0% {
@@ -517,7 +522,7 @@ HR {
 
 .social {
   position: absolute;
-  top: -44px;
+  top: -28px;
   left: 16px; }
 
 .social__item {
@@ -526,7 +531,7 @@ HR {
   font-weight: bold;
   line-height: 1;
   font-family: "Neucha", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin-right: 12px;
   vertical-align: middle;
   text-decoration: none;
@@ -557,7 +562,7 @@ HR {
   .announce__briefly {
     float: right;
     margin: 0 0 20px 28px;
-    border: 1px dashed #d4d5d9;
+    border: 1px solid #bb3377;
     padding: 20px; } }
 
 @media all and (min-width: 48em) and (max-width: 59.9375em) {
@@ -668,13 +673,16 @@ HR {
     .head__layer--ships-1 {
       display: none; }
     .head__layer--ships-2 {
-      width: 150px;
-      height: 150px;
-      z-index: 10; }
+      width: 130px;
+      height: 130px;
+      top: 0;
+      right: 14%; }
     .head__layer--ships-3 {
       display: none; }
     .head__layer--ships-4 {
-      display: none; } }
+      display: none; }
+    .head__layer--station {
+      top: -50%; } }
 
 @media all and (max-width: 47.9375em) {
   .u-hidden-small {

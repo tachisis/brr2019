@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Карты — Барраяр. Время перемен
+title: Карты — Барраяр. Опасная игра
 permalink: /world/maps/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Танцы — Барраяр. Время перемен
+title: Танцы — Барраяр. Опасная игра
 permalink: /help/dance/
 ---
 

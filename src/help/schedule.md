@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Расписание — Барраяр. Время перемен
+title: Расписание — Барраяр. Опасная игра
 permalink: /help/schedule/
 ---
 

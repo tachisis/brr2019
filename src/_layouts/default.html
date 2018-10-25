@@ -40,7 +40,7 @@
 
   <div class="wrap">
     <article class="content">
-      <h1 class="content__title"><a href="/" class="content__title-link"><span class="content__title-main">#BRR2019</span>: <span class="content__title-sub">Опасная игра</span></a></h1>
+      {% if page.url == '/' %}<h1 class="content__title">BRR2019: Опасная игра</h1>{% else %}<div class="content__title"><a href="/" class="content__title-link">BRR2019: Опасная игра</a></div>{% endif %}
 
       {% include social.html %}
 

@@ -1,12 +1,8 @@
 .head {
   position: relative;
 
-  height: 26vh;
+  height: 28vh;
   max-height: 480px;
-
-  // background: #331133;
-  // background: linear-gradient(to bottom, #331133 0%, #222255 60%, #000022 100%);
-  // background-attachment: fixed;
 
   .is-main & {
     @include bp(wide) {
@@ -76,9 +72,10 @@
 
 .head__layer--ships-2 {
   @include bp(small wide) {
-    width: 150px;
-    height: 150px;
-    z-index: 10;
+    width: 130px;
+    height: 130px;
+    top: 0;
+    right: 14%;
   }
 
   @include background-retina(
@@ -137,6 +134,12 @@
 }
 
 .head__layer--station {
+  @include bp(small wide) {
+    top: -50%;
+  }
+  .is-main & {
+    top: 9%;
+  }
   @include background-retina(
   'website/components/head/station.png',
   'website/components/head/station@2x.png',
@@ -148,12 +151,10 @@
 
   background-repeat: no-repeat;
 
-  top: 9%;
+  top: -30%;
   left: 50%;
 
   margin-left: -200px;
-
-  // animation: stationRotate 15s linear infinite;
 }
 
 @keyframes stationRotate {
