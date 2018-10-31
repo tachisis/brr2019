@@ -430,7 +430,7 @@ HR {
 .head {
   position: relative;
   height: 28vh;
-  max-height: 480px; }
+  max-height: 400px; }
   .is-main .head {
     height: 40vh; }
 
@@ -592,7 +592,8 @@ HR {
     .content__title {
       right: 32px;
       text-shadow: none;
-      font-size: 22px; }
+      font-size: 24px;
+      top: -32px; }
   .content__cols {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -609,6 +610,7 @@ HR {
       margin-bottom: 0; }
     .nav__item {
       margin-right: 12px;
+      font-size: 20px;
       color: #d4d5d9; }
       .nav__item:hover {
         color: #fdfdfd; }
@@ -621,7 +623,8 @@ HR {
       top: -32px; }
     .social__item {
       display: inline-block;
-      padding-bottom: 0; } }
+      padding-bottom: 0;
+      font-size: 20px; } }
 
 @media all and (min-width: 60em) and (max-width: 93.6875em) {
   .u-hidden-wide {

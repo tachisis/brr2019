@@ -2,7 +2,7 @@
   position: relative;
 
   height: 28vh;
-  max-height: 480px;
+  max-height: 400px;
 
   .is-main & {
     @include bp(wide) {
