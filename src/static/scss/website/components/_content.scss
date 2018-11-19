@@ -71,6 +71,18 @@
       }
     }
   }
+  .pic {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin: auto;
+  }
+  .iframe {
+    @include bp(small large) {
+      width: 100%;
+      height: 400px;
+    }
+  }
 }
 
 .content__title {

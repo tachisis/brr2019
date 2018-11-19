@@ -355,6 +355,11 @@ HR {
     padding: 0 16px 0;
     margin: 16px 0;
     border-left: 3px solid #bb3377; }
+  .content .pic {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+    margin: auto; }
 
 .content__title {
   font-weight: bold;
@@ -430,7 +435,7 @@ HR {
 .head {
   position: relative;
   height: 28vh;
-  max-height: 400px; }
+  max-height: 200px; }
   .is-main .head {
     height: 40vh; }
 
@@ -616,6 +621,8 @@ HR {
         color: #fdfdfd; }
     .wrap {
       padding: 44px 32px; }
+    .head {
+      max-height: 400px; }
       .is-main .head {
         height: 60vh; }
     .social {
@@ -672,6 +679,19 @@ HR {
     .head__layer--station {
       background-image: url('/static/i/dest/website/components/head/station@2x.png?3f5f4'); } }
 
+@media all and (max-width: 47.9375em) {
+    .content .iframe {
+      width: 100%;
+      height: 400px; }
+  .u-hidden-small {
+    display: none !important; }
+  .u-visible-small-block {
+    display: block !important; }
+  .u-visible-small-inline {
+    display: inline !important; }
+  .u-visible-small-inline-block {
+    display: inline-block !important; } }
+
 @media all and (max-width: 59.9375em) {
     .head__layer--ships-1 {
       display: none; }
@@ -686,13 +706,3 @@ HR {
       display: none; }
     .head__layer--station {
       top: -50%; } }
-
-@media all and (max-width: 47.9375em) {
-  .u-hidden-small {
-    display: none !important; }
-  .u-visible-small-block {
-    display: block !important; }
-  .u-visible-small-inline {
-    display: inline !important; }
-  .u-visible-small-inline-block {
-    display: inline-block !important; } }

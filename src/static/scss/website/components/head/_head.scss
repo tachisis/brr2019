@@ -1,8 +1,12 @@
 .head {
+  @include bp(wide) {
+    max-height: 400px;
+  }
+
   position: relative;
 
   height: 28vh;
-  max-height: 400px;
+  max-height: 200px;
 
   .is-main & {
     @include bp(wide) {
