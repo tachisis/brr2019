@@ -8,9 +8,9 @@ permalink: /rules/crime/
 
 &larr; [Назад к списку правил](/rules/)
 
-- [Задержание](/rules/crime/#section-1)
-- [Обыск](/rules/crime/#section-2)
-- [Проникновение в помещение](/rules/crime/#section-3)
+- [Задержание](/rules/crime/#Задержание)
+- [Обыск](/rules/crime/#Обыск)
+- [Проникновение в помещение](/rules/crime/#Проникновение-в-помещение)
 - [Судебно-медицинская экспертиза](/rules/crime/#section-4)
 - [Суд](/rules/crime/#section-5)
 - [Дипломатический иммунитет](/rules/crime/#section-6)
