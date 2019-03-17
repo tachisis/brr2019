@@ -43,3 +43,4 @@ permalink: /org/angels/
 * __bellatriks__
 * __Нар__
 * __Сэнди__
+* __Шини__
