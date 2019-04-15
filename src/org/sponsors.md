@@ -56,4 +56,5 @@ permalink: /org/angels/
 	<li>Герр</li>
 	<li>dariadiar</li>
 	<li>Базиль</li>
+	<li>Рилль</li>
 </ul>
