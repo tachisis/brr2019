@@ -57,4 +57,9 @@ permalink: /org/angels/
 	<li>dariadiar</li>
 	<li>Базиль</li>
 	<li>Рилль</li>
+	<li>Лу</li>
+	<li>Берни</li>
+	<li>Рэндом</li>
+	<li>Марион</li>
+	<li>Гризабелла</li>
 </ul>
