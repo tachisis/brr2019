@@ -62,4 +62,5 @@ permalink: /org/angels/
 	<li>Рэндом</li>
 	<li>Марион</li>
 	<li>Гризабелла</li>
+	<li>Стив</li>
 </ul>
