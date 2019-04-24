@@ -17,6 +17,7 @@ permalink: /world/
 - [Комарра](/world/komarr/)
 - [Сергияр](/world/sergyar/)
 - [Карианский полуостров](/world/karian/)
+- [Известные барраярские рода](/world/brr-trees/)
 
 ## Другие галактические государства
 
