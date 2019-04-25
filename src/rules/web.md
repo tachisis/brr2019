@@ -64,11 +64,11 @@ permalink: /rules/web/
 
 Для мессенджера мы будем использовать Telegram. Установите его заранее и заведите пользователя.
 
-Андроид: https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=it
+Андроид: [Установить через Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=it)
 
-iPhone: https://itunes.apple.com/ru/app/telegram-messenger/id686449807?mt=8
+iPhone: [Установить через App Store](https://itunes.apple.com/ru/app/telegram-messenger/id686449807?mt=8)
 
-Десктопный клиент: https://telegram.org/ (для доступа к сайту необходим VPN).
+Десктопный клиент: <a href="https://telegram.org/">Скачать на официальном сайте</a> (для доступа к сайту необходим VPN).
 
 **Внимание!** Если вы хотите использовать Telegram на игре, вы обязуетесь на время игры выйти из всех чатов и каналов и отключить автоматическую загрузку любых типов медиа-файлов. Интернет-канал на игре у нас не очень мощный, и мы будем банить нарушителей сразу. Также на время игры мы просим переименовать у себя в записной книжке (откуда их берет телеграм обычно) контакты игроков в персонажные имена, чтобы не было диссонанса.
 
