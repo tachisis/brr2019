@@ -32,12 +32,6 @@ permalink: /world/brr-trees/
 
 <a href="https://docs.google.com/drawings/d/e/2PACX-1vQeN2qOM3BqGC8UPll3B1vcZ-ZCE61us94G-_bi64u0yoW1AVBdAnockwhCoEEC4vZMryfDtpTSPs3t/pub?w=1187&h=540">Скачать древо в большом размере</a>
 
-## Форвилли
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTBGjqzasBXKO5t-1eTbh_P4B9BpaKVvRFGRBZrza-B3w785YvvzBFJhKgXfgwhUsZPFVZW33rpVWBM/pub?w=1574&amp;h=495" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vTBGjqzasBXKO5t-1eTbh_P4B9BpaKVvRFGRBZrza-B3w785YvvzBFJhKgXfgwhUsZPFVZW33rpVWBM/pub?w=2361&h=742">Скачать древо в большом размере</a>
-
 ## Форратьеры
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSCEdWIIa09Va-4TSy75wBUN-cmZh0mWQl-56WZ55q2GJ3b_xcLYtiyb1JMVKnOF02WcafTP0iGY9CC/pub?w=1131&amp;h=491" style="width:100%;height:auto;">
