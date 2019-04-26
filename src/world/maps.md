@@ -23,7 +23,7 @@ _По клику откроется большая версия_
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/C7gCqmV.png" target="_blank"><img src="https://i.imgur.com/C7gCqmV.png" alt="Карта Барраяра" style="max-width:600px;" /></a>
+<a href="https://i.imgur.com/Aj2iftR.jpg" target="_blank"><img src="https://i.imgur.com/C7gCqmV.png" alt="Карта Барраяра" style="max-width:600px;" /></a>
 
 ## Карта Форбарр-Султаны
 
