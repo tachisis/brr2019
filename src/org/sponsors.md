@@ -65,4 +65,5 @@ permalink: /org/angels/
 	<li>Стив</li>
 	<li>Мио</li>
 	<li>Сира</li>
+	<li>Альба</li>
 </ul>
