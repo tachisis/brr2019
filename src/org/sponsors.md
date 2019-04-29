@@ -64,4 +64,7 @@ permalink: /org/angels/
 	<li>Гризабелла</li>
 	<li>Стив</li>
 	<li>Мио</li>
+	<li>Сира</li>
+	<li>Альба</li>
+	<li>Lórion</li> 
 </ul>
