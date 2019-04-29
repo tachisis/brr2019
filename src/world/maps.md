@@ -19,11 +19,17 @@ _По клику откроется большая версия_
 
 <a href="https://i.imgur.com/gWgPqt3.png" target="_blank"><img src="https://i.imgur.com/gWgPqt3.png" alt="Карта ПВ-туннелей" style="max-width:600px;"/></a>
 
-## Карта Барраяра
+## Политическая карта Барраяра
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/Aj2iftR.jpg" target="_blank"><img src="https://i.imgur.com/Aj2iftR.jpg" alt="Карта Барраяра" style="max-width:600px;" /></a>
+<a href="https://i.imgur.com/2HlSbwM.jpg" target="_blank"><img src="https://i.imgur.com/2HlSbwM.jpg" alt="Политическая карта Барраяра" style="max-width:600px;" /></a>
+
+## Физическая карта Барраяра
+
+_По клику откроется большая версия_
+
+<a href="https://i.imgur.com/iTowaw1.jpg" target="_blank"><img src="https://i.imgur.com/iTowaw1.jpg" alt="Физическая карта Барраяра" style="max-width:600px;" /></a>
 
 ## Карта Форбарр-Султаны
 
