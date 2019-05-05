@@ -10,48 +10,32 @@ permalink: /world/brr-trees/
 
 ## Форбарры и Форкосиганы
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRPbFxyXMs9Ub0t9Z7CiK6Lqor_tk15CD-G-qGwPaKzMv8g3Q7ga6pJbE8aHIRc1anDrEKYUHUuZrGN/pub?w=1094&amp;h=583" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vRPbFxyXMs9Ub0t9Z7CiK6Lqor_tk15CD-G-qGwPaKzMv8g3Q7ga6pJbE8aHIRc1anDrEKYUHUuZrGN/pub?w=1640&h=875">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vorbarra.png"><img src="/static/i/dest/media/vorbarra_th.png" srcset="/static/i/dest/media/vorbarra.png 2x"></a></div>
 
 ## Фориннисы, Форхарты и Форманны
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRJPDPJlZFRenng8jT2mMT7iSwuLuYOeabF1oTwIKrV6t7Zy2asscj62qJv-DufHF76WL9ESbxsj47Q/pub?w=1108&amp;h=285" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vRJPDPJlZFRenng8jT2mMT7iSwuLuYOeabF1oTwIKrV6t7Zy2asscj62qJv-DufHF76WL9ESbxsj47Q/pub?w=1662&h=428">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vorinnis.png"><img src="/static/i/dest/media/vorinnis_th.png" srcset="/static/i/dest/media/vorinnis.png 2x"></a></div>
 
 ## Фортугаровы и Форкересы
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQLYmLmJKSw2ijptJ6FaxRf7t3seTBTQz8BB1B3L1ohfHRVH-YHo3OXnt-GheZJdShKDp4K5pO1a0EO/pub?w=1079&amp;h=440" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vQLYmLmJKSw2ijptJ6FaxRf7t3seTBTQz8BB1B3L1ohfHRVH-YHo3OXnt-GheZJdShKDp4K5pO1a0EO/pub?w=1619&h=659">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/russians.png"><img src="/static/i/dest/media/russians_th.png" srcset="/static/i/dest/media/russians.png 2x"></a></div>
 
 ## Форбреттены и Форморели
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQeN2qOM3BqGC8UPll3B1vcZ-ZCE61us94G-_bi64u0yoW1AVBdAnockwhCoEEC4vZMryfDtpTSPs3t/pub?w=1187&amp;h=540" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vQeN2qOM3BqGC8UPll3B1vcZ-ZCE61us94G-_bi64u0yoW1AVBdAnockwhCoEEC4vZMryfDtpTSPs3t/pub?w=1187&h=540">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vorbretten.png"><img src="/static/i/dest/media/vorbretten_th.png" srcset="/static/i/dest/media/vorbretten.png 2x"></a></div>
 
 ## Форвилли
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTBGjqzasBXKO5t-1eTbh_P4B9BpaKVvRFGRBZrza-B3w785YvvzBFJhKgXfgwhUsZPFVZW33rpVWBM/pub?w=1574&amp;h=495">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vTBGjqzasBXKO5t-1eTbh_P4B9BpaKVvRFGRBZrza-B3w785YvvzBFJhKgXfgwhUsZPFVZW33rpVWBM/pub?w=2361&h=742">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vorville.png"><img src="/static/i/dest/media/vorville_th.png" srcset="/static/i/dest/media/vorville.png 2x"></a></div>
 
 ## Форратьеры
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSCEdWIIa09Va-4TSy75wBUN-cmZh0mWQl-56WZ55q2GJ3b_xcLYtiyb1JMVKnOF02WcafTP0iGY9CC/pub?w=1131&amp;h=491" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vSCEdWIIa09Va-4TSy75wBUN-cmZh0mWQl-56WZ55q2GJ3b_xcLYtiyb1JMVKnOF02WcafTP0iGY9CC/pub?w=1697&h=737">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vorrutyer.png"><img src="/static/i/dest/media/vorrutyer_th.png" srcset="/static/i/dest/media/vorrutyer.png 2x"></a></div>
 
 ## Фордракисы, Форпарадисы и Форхаропулосы
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQccR1mA8XGyczgVFsi37I6yp2mQv1ZSO-MJnVWtDcZOpXkKntG-nCtqOAMQuWY3mN5cjnPfALSAIwt/pub?w=1905&amp;h=537" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vQccR1mA8XGyczgVFsi37I6yp2mQv1ZSO-MJnVWtDcZOpXkKntG-nCtqOAMQuWY3mN5cjnPfALSAIwt/pub?w=2858&h=805">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/greece.png"><img src="/static/i/dest/media/greece_th.png" srcset="/static/i/dest/media/greece.png 2x"></a></div>
 
 ## Форталы, Фортицы и Форвейны
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQEbYXf-CSddv1CnoCCZTUJnNeOOl5CyjCzAQkLLJgD2fCCvHzhTZ40rX7ijFpx6jD31YJQo9olUFqR/pub?w=1029&amp;h=361" style="width:100%;height:auto;">
-
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vQEbYXf-CSddv1CnoCCZTUJnNeOOl5CyjCzAQkLLJgD2fCCvHzhTZ40rX7ijFpx6jD31YJQo9olUFqR/pub?w=1544&h=542">Скачать древо в большом размере</a>
+<div class="scrolling-picture"><a href="/static/i/dest/media/vortala.png"><img src="/static/i/dest/media/vortala_th.png" srcset="/static/i/dest/media/vortala.png 2x"></a></div>

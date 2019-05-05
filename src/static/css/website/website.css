@@ -303,6 +303,13 @@ HR {
   height: 16px;
   fill: currentColor; }
 
+.scrolling-picture {
+  overflow-x: auto; }
+  .scrolling-picture IMG {
+    width: 100%;
+    min-width: 600px;
+    height: auto; }
+
 .announce P {
   font-size: 14px; }
 

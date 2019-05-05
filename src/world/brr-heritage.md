@@ -13,9 +13,9 @@ permalink: /world/brr-heritage/
 
 ## История воцарения императора Дорки
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vTCkMN3rjRTvldBkaq326eKdPCj5OUgo7H2Bcag429wM33BGKssocbfjsTwCu3jFkhhsUjrT9h0gnBz/pub?w=1154&amp;h=433">
+<div class="scrolling-picture" style="margin-bottom:20px;"><a href="/static/i/dest/media/heritage.png"><img src="/static/i/dest/media/heritage_th.png" srcset="/static/i/dest/media/heritage.png 2x" style="min-width:1400px;"></a></div>
 
-<a href="https://docs.google.com/drawings/d/e/2PACX-1vTCkMN3rjRTvldBkaq326eKdPCj5OUgo7H2Bcag429wM33BGKssocbfjsTwCu3jFkhhsUjrT9h0gnBz/pub?w=2308&h=866">Скачать древо в большом размере</a>
+_Прокрутите картинку, чтобы увидеть полностью_
 
 В 2762 году умер император Ксандр Форбарра. На престол взошел его старший сын Георг. Кроме того, у Ксандра было еще двое детей — дочь Екатерина и младший сын Видаль.
 

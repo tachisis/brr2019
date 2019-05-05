@@ -1,0 +1,9 @@
+.scrolling-picture {
+	overflow-x: auto;
+
+	IMG {
+		width: 100%;
+		min-width: 600px;
+		height: auto;
+	}
+}

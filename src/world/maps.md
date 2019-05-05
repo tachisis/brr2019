@@ -17,25 +17,25 @@ permalink: /world/maps/
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/gWgPqt3.png" target="_blank"><img src="https://i.imgur.com/gWgPqt3.png" alt="Карта ПВ-туннелей" style="max-width:600px;"/></a>
+<a href="/static/i/dest/media/pv.png" target="_blank"><img src="/static/i/dest/media/pv_th.png" alt="Карта ПВ-туннелей" style="max-width:600px;"/></a>
 
 ## Политическая карта Барраяра
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/2HlSbwM.jpg" target="_blank"><img src="https://i.imgur.com/2HlSbwM.jpg" alt="Политическая карта Барраяра" style="max-width:600px;" /></a>
+<a href="/static/i/dest/media/politics.jpg" target="_blank"><img src="/static/i/dest/media/politics_th.jpg" alt="Политическая карта Барраяра" style="max-width:600px;" /></a>
 
 ## Физическая карта Барраяра
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/iTowaw1.jpg" target="_blank"><img src="https://i.imgur.com/iTowaw1.jpg" alt="Физическая карта Барраяра" style="max-width:600px;" /></a>
+<a href="/static/i/dest/media/physics_th.jpg" target="_blank"><img src="/static/i/dest/media/physics_th.jpg" alt="Физическая карта Барраяра" style="max-width:600px;" /></a>
 
 ## Карта Форбарр-Султаны
 
 _По клику откроется большая версия_
 
-<a href="https://i.imgur.com/fuxKbAR.png"><img src="https://i.imgur.com/fuxKbAR.png" alt="Карта Форбарр-Султаны" style="max-width:600px;"/></a>
+<a href="/static/i/dest/media/vs.png" target="_blank"><img src="/static/i/dest/media/vs_th.png" alt="Карта Форбарр-Султаны" style="max-width:600px;"/></a>
 
 ### Адресная книга (расселение)
 
