@@ -66,5 +66,6 @@ permalink: /org/angels/
 	<li>Мио</li>
 	<li>Сира</li>
 	<li>Альба</li>
-	<li>Lórion</li> 
+	<li>Lórion</li>
+	<li>Medrod</li>
 </ul>
