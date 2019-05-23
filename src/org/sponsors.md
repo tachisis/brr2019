@@ -68,4 +68,6 @@ permalink: /org/angels/
 	<li>Альба</li>
 	<li>Lórion</li>
 	<li>Medrod</li>
+	<li>Ангел</li>
+	<li>Паркс</li>
 </ul>
