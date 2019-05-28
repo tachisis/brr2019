@@ -39,7 +39,7 @@ permalink: /world/brr-gos/
 
 ### Гимн Барраярской империи
 
-*Музыка — __Че__, вокал — __Максим Раковский__ и __Александра Невская__*
+*Стихи — __Адора__. Музыка — __Че__, вокал — __Максим Раковский__ и __Александра Невская__*
 
 <iframe src="https://drive.google.com/file/d/1QCghjp29sAy5MygqpIEdOBWnGZt4DRfe/preview" width="500" height="80" border="0"></iframe>
 
