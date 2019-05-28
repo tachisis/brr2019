@@ -78,6 +78,17 @@
       }
     }
   }
+  .list-triple {
+    @include bp(wide) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      LI {
+        width: 33%;
+      }
+    }
+  }
   .pic {
     width: 100%;
     height: auto;

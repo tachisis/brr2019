@@ -16,7 +16,7 @@ permalink: /org/angels/
 
 ### Сделали игру лучше:
 
-<ul class="list-double">
+<ul class="list-triple">
 	<li>Тиш (Tish_monstre)</li>
 	<li>Tender</li>
 	<li>Цахес</li>
